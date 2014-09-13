@@ -1,0 +1,82 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	font-family: arial;
+}
+
+.top {
+	height: 50px;
+	background-color: black;
+	float: left;
+	width: 100%;
+	color: gray;
+	font-size: 40px;
+	padding-left: 10px;
+}
+
+.box {
+	height: 300px;
+	width: 30%;
+	float: left;
+	margin:	20px;
+	margin: 20 auto;
+	border-radius: 5px;
+	font-size: 20px;
+}
+
+.one {
+	border: 2px solid #FFB2B2;
+}
+
+.two {
+	border: 2px solid #FFFF99;
+}
+
+.three {
+	border: 2px solid #85E085;
+}
+
+.four {
+	border: 2px solid #CFD4CF;
+}
+
+.top-section.red {
+	background: #FFB2B2;
+	color: red;
+	padding: 10px;
+}
+
+.top-section.yellow {
+	background: #FFFF99;
+	color: #666600;
+	padding: 10px;
+}
+
+.top-section.green {
+	background-color: #85E085;
+	color: #284328;
+	padding: 10px;
+}
+
+.top-section.gray {
+	background: #CFD4CF;
+	color: black;
+	padding: 10px;
+}
+
+.info {
+	width: 90%;
+	margin: 0 auto;
+	border: 1px solid #CFD4CF;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	border-radius: 5px;
+	color: gray;
+}
+
+p {
+	border: 1px solid gray;
+	margin: 0;
+	padding: 10px;
+	font-size: 15px;
+}
